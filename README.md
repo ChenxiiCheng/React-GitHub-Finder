@@ -6,9 +6,9 @@
 
 #### Preview | 预览
 
-![image-20191024232242863](./imgs/cooking-react.jpeg)
+![image-20191024232242863](./imgs/github1.png)
 
-![image-20191024234724936](./imgs/cooking2.jpeg)
+![image-20191024234724936](./imgs/github2.png)
 
 ---
 
